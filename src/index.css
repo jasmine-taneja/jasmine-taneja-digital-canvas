@@ -31,8 +31,8 @@
     --muted: 30 15% 92%;
     --muted-foreground: 240 10% 45%;
 
-    /* Accent - Bright Pink */
-    --accent: 340 70% 65%;
+    /* Accent - Soft Teal */
+    --accent: 180 50% 60%;
     --accent-foreground: 240 15% 8%;
 
     /* Creative Pastels */
@@ -44,7 +44,7 @@
 
     /* Gradients */
     --gradient-primary: linear-gradient(135deg, hsl(var(--primary)), hsl(var(--primary-glow)));
-    --gradient-hero: linear-gradient(135deg, hsl(var(--peach)), hsl(var(--accent)), hsl(var(--sky)));
+    --gradient-hero: linear-gradient(135deg, hsl(var(--background)), hsl(var(--secondary)), hsl(var(--accent)));
     --gradient-card: linear-gradient(145deg, hsl(var(--card)), hsl(var(--lavender-light)));
     --gradient-section: linear-gradient(180deg, hsl(var(--background)), hsl(var(--mint-light)));
 

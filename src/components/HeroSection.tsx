@@ -16,7 +16,7 @@ const HeroSection = () => {
       {/* Content */}
       <div className="relative z-10 text-center max-w-4xl mx-auto section-padding">
         <div className="fade-in">
-          <h1 className="text-8xl md:text-9xl font-bold mb-6 text-shimmer leading-tight floating">
+          <h1 className="text-8xl md:text-9xl font-bold mb-6 gradient-text leading-tight floating">
             Jasmine
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 font-medium slide-up stagger-1">
@@ -48,7 +48,7 @@ const HeroSection = () => {
               className="rounded-full p-4 neon-glow crazy-spin"
               asChild
             >
-              <a href="https://linkedin.com/in/jasmine-taneja" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/jasmine-taneja-524493216/" target="_blank" rel="noopener noreferrer">
                 <Linkedin className="h-6 w-6" />
               </a>
             </Button>

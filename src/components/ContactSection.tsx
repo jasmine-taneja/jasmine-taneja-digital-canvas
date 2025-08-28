@@ -58,7 +58,7 @@ const ContactSection = () => {
                 size="lg"
                 asChild
               >
-                <a href="https://linkedin.com/in/jasmine-taneja" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/jasmine-taneja-524493216/" target="_blank" rel="noopener noreferrer">
                   <Linkedin className="h-5 w-5" />
                   <div>
                     <p className="font-medium">LinkedIn</p>
