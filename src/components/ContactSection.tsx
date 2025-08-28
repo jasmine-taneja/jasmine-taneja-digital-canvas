@@ -29,7 +29,7 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground">Email</h3>
-                    <p className="text-muted-foreground">jasmine@example.com</p>
+                    <p className="text-muted-foreground">jasmine.taneja07@gmail.com</p>
                   </div>
                 </div>
               </CardContent>
@@ -39,26 +39,32 @@ const ContactSection = () => {
             <div className="space-y-4 slide-up stagger-2">
               <Button 
                 variant="outline" 
-                className="w-full justify-start gap-3 h-14 text-left"
+                className="w-full justify-start gap-3 h-14 text-left neon-glow"
                 size="lg"
+                asChild
               >
-                <Github className="h-5 w-5" />
-                <div>
-                  <p className="font-medium">GitHub</p>
-                  <p className="text-sm text-muted-foreground">View my code</p>
-                </div>
+                <a href="https://github.com/jasminetaneja" target="_blank" rel="noopener noreferrer">
+                  <Github className="h-5 w-5" />
+                  <div>
+                    <p className="font-medium">GitHub</p>
+                    <p className="text-sm text-muted-foreground">View my code</p>
+                  </div>
+                </a>
               </Button>
               
               <Button 
                 variant="outline" 
-                className="w-full justify-start gap-3 h-14 text-left"
+                className="w-full justify-start gap-3 h-14 text-left neon-glow"
                 size="lg"
+                asChild
               >
-                <Linkedin className="h-5 w-5" />
-                <div>
-                  <p className="font-medium">LinkedIn</p>
-                  <p className="text-sm text-muted-foreground">Professional network</p>
-                </div>
+                <a href="https://linkedin.com/in/jasmine-taneja" target="_blank" rel="noopener noreferrer">
+                  <Linkedin className="h-5 w-5" />
+                  <div>
+                    <p className="font-medium">LinkedIn</p>
+                    <p className="text-sm text-muted-foreground">Professional network</p>
+                  </div>
+                </a>
               </Button>
             </div>
           </div>

@@ -7,16 +7,17 @@ const HeroSection = () => {
     <section className="min-h-screen flex items-center justify-center relative overflow-hidden">
       {/* Background */}
       <div 
-        className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-20"
+        className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-40"
         style={{ backgroundImage: `url(${heroImage})` }}
       />
-      <div className="absolute inset-0 hero-gradient opacity-30" />
+      <div className="absolute inset-0 hero-gradient opacity-60" />
+      <div className="absolute inset-0 bg-background/20" />
       
       {/* Content */}
       <div className="relative z-10 text-center max-w-4xl mx-auto section-padding">
         <div className="fade-in">
-          <h1 className="text-6xl md:text-8xl font-bold mb-6 gradient-text leading-tight">
-            Jasmine Taneja
+          <h1 className="text-8xl md:text-9xl font-bold mb-6 text-shimmer leading-tight floating">
+            Jasmine
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 font-medium slide-up stagger-1">
             Blending Technology & Design to Craft Engaging Digital Experiences
@@ -31,14 +32,35 @@ const HeroSection = () => {
           
           {/* Social Links */}
           <div className="flex justify-center gap-6 mb-12 scale-in stagger-3">
-            <Button variant="outline" size="lg" className="rounded-full p-4">
-              <Github className="h-6 w-6" />
+            <Button 
+              variant="outline" 
+              size="lg" 
+              className="rounded-full p-4 neon-glow crazy-spin"
+              asChild
+            >
+              <a href="https://github.com/jasminetaneja" target="_blank" rel="noopener noreferrer">
+                <Github className="h-6 w-6" />
+              </a>
             </Button>
-            <Button variant="outline" size="lg" className="rounded-full p-4">
-              <Linkedin className="h-6 w-6" />
+            <Button 
+              variant="outline" 
+              size="lg" 
+              className="rounded-full p-4 neon-glow crazy-spin"
+              asChild
+            >
+              <a href="https://linkedin.com/in/jasmine-taneja" target="_blank" rel="noopener noreferrer">
+                <Linkedin className="h-6 w-6" />
+              </a>
             </Button>
-            <Button variant="outline" size="lg" className="rounded-full p-4">
-              <Mail className="h-6 w-6" />
+            <Button 
+              variant="outline" 
+              size="lg" 
+              className="rounded-full p-4 neon-glow crazy-spin"
+              asChild
+            >
+              <a href="mailto:jasmine.taneja07@gmail.com">
+                <Mail className="h-6 w-6" />
+              </a>
             </Button>
           </div>
         </div>
