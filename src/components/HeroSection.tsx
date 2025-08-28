@@ -38,7 +38,7 @@ const HeroSection = () => {
               className="rounded-full p-4 neon-glow crazy-spin"
               asChild
             >
-              <a href="https://github.com/jasminetaneja" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/jasmine-taneja" target="_blank" rel="noopener noreferrer">
                 <Github className="h-6 w-6" />
               </a>
             </Button>

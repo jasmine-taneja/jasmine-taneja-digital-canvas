@@ -43,7 +43,7 @@ const ContactSection = () => {
                 size="lg"
                 asChild
               >
-                <a href="https://github.com/jasminetaneja" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/jasmine-taneja" target="_blank" rel="noopener noreferrer">
                   <Github className="h-5 w-5" />
                   <div>
                     <p className="font-medium">GitHub</p>
