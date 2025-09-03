@@ -1,73 +1,85 @@
-# Welcome to your Lovable project
+# 🌸 Jasmine — Blending Technology & Design  
 
-## Project info
+> *Crafting engaging digital experiences through creativity, design, and technology.*
 
-**URL**: https://lovable.dev/projects/326dfead-d31e-47b1-ac53-c6c1bedda60c
+---
 
-## How can I edit this code?
+## 👩‍💻 About Me  
+I’m **Jasmine**, a final-year **Computer Science Engineering student** with a passion for **UI/UX design, digital storytelling, and creative problem-solving**.  
+I love combining **design tools** and **development skills** to create impactful, user-centered solutions.  
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🎨 Skills & Expertise  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/326dfead-d31e-47b1-ac53-c6c1bedda60c) and start prompting.
+**🖌️ Design Tools**  
+- Adobe Illustrator · Photoshop · Figma · Canva · Procreate  
 
-Changes made via Lovable will be committed automatically to this repo.
+**✨ Design Specialties**  
+- UI/UX Layouts · Branding · Icon Design · Visual Identity  
 
-**Use your preferred IDE**
+**💻 Development**  
+- HTML · CSS · React · TypeScript · C++  
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+**📊 Analytics & Tools**  
+- Power BI · Excel · Google Analytics · WordPress  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🚀 Featured Projects  
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### 🎨 Creative Designs Portfolio  
+- Designed **product mockups, tote bags, phone covers, and logos**  
+- Focused on **modern aesthetics** & **brand storytelling**  
+- **Tools:** Illustrator · Photoshop · Canva · Figma  
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+### 🛍️ Stitch Theory (E-commerce)  
+- UI/UX design & custom illustrations for an online store  
+- Delivered a **modern minimal aesthetic** with seamless user experience  
+- **Tools:** Figma · Frontend Dev · UI/UX  
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+### 🤖 Kodomo (AI EdTech)  
+- AI-powered web app using **Gemini AI** to generate educational memes  
+- Focused on **interactive learning** & **student engagement**  
+- **Tech Stack:** React · Gemini AI · Figma · TypeScript  
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 💼 Experience  
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+**UI/UX & Design Intern** — *The Lead Origin* (May 2024 – July 2024, Remote)  
+- Designed responsive layouts & user interfaces  
+- Created custom icons & graphics for web apps  
+- Improved user engagement by **20%** through optimized design  
+- Collaborated with developers on implementation  
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 📜 Certifications  
+- **Power BI** — Microsoft (2024)  
+- **AWS ML Foundations** — Amazon Web Services (2024)  
+- **Networking Basics** — Cisco (2023)  
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## 🌱 Volunteering & Activities  
+- **Gram Panchayat Bilaspur** — Community Development  
+- **Cosmonauts** — Sponsorship Coordinator  
+- **Swift Coding Club** — Active Member  
+- **Goldman Sachs & EA Virtual Experience Programs**  
 
-Simply open [Lovable](https://lovable.dev/projects/326dfead-d31e-47b1-ac53-c6c1bedda60c) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
+## 📬 Let’s Connect  
+I’m always open to collaborating on exciting projects and creative ideas!  
 
-Yes, you can!
+- 📧 Email: **[jasmine.taneja07@gmail.com](mailto:jasmine.taneja07@gmail.com)**  
+- 💻 GitHub: [View My Code](https://github.com/jasmine-taneja)  
+- 🔗 LinkedIn: [Professional Network](https://linkedin.com/) *(add your profile link)*  
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+---
+⭐️ *“Design is intelligence made visible.”*  
