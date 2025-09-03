@@ -1,9 +1,9 @@
-# Jasmine — Digital Portfolio  
+# 🌸 Jasmine — Digital Portfolio  
 
 Welcome to the repository behind my personal portfolio website!  
 This repo documents how I designed and developed my portfolio, blending **technology & design** to craft engaging digital experiences.  
 
- **[👉 Click here to visit my live portfolio](https://preview--jasmine-digital-canvas.lovable.app/)** ✨  
+✨ **[👉 Click here to visit my live portfolio](https://preview--jasmine-digital-canvas.lovable.app/)** ✨  
 
 ---
 
@@ -17,7 +17,7 @@ This repo documents how I designed and developed my portfolio, blending **techno
 ## 📬 Connect with Me  
 - 📧 Email: [jasmine.taneja07@gmail.com](mailto:jasmine.taneja07@gmail.com)  
 - 💻 GitHub: [jasmine-taneja](https://github.com/jasmine-taneja)  
-- 🔗 LinkedIn:[LinkedIn]([https://www.linkedin.com/in/jasmine-taneja-524493216/) 
+- 🔗 LinkedIn: [Jasmine Taneja](https://www.linkedin.com/in/jasmine-taneja-524493216/)  
 
 ---
- *Click above and explore my journey in design & development!*  
+⭐️ *Click above and explore my journey in design & development!*  
